@@ -1,7 +1,7 @@
 # p3-ssoo-test-uc3m
 ## Authors
-Álvaro Galisteo Álvarez
-Álberto Lobato Díaz
+- Álvaro Galisteo Álvarez
+- Álberto Lobato Díaz
 
 ## Tests
 This are the automated tests used in the third assignments of the subject Sistemas Operativos at UC3M.
